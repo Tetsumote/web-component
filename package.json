@@ -1,0 +1,14 @@
+{
+  "name": "profile_info",
+  "version": "0.0.1",
+  "description": "A webcomponent that shows information about an employee in the form",
+  "main": "ProfileInfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webcomponent"
+  ],
+  "author": "Paul Grajewski",
+  "license": "ISC"
+}
