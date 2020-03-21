@@ -1,8 +1,5 @@
 # profile-info
 
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/prateekjadhwani/profile-info)
-
-A web component that shows information about an employee in the form of a profile card.
 
 ## Demo
 
