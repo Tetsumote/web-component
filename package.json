@@ -1,6 +1,6 @@
 {
   "name": "profile_info_tetsumote",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A webcomponent that shows information about an employee in the form",
   "main": "ProfileInfo.js",
   "scripts": {
