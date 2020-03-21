@@ -10,5 +10,6 @@
     "webcomponent"
   ],
   "author": "Paul Grajewski",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/Tetsumote/web-component"
 }
